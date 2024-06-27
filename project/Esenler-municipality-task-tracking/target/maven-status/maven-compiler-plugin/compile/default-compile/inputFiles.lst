@@ -1,0 +1,10 @@
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/EsenlerMunicipalityTaskTrackingApplication.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/controller/TaskController.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/entity/ContractTask.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/entity/ContractedEmployee.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/entity/Employee.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/entity/Task.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/repository/EmployeeRepository.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/repository/TaskRepository.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/service/TaskService.java
+/Users/yasinsimsek/Downloads/Esenler-municipality-task-tracking/src/main/java/com/esenler/tasktracking/service/impl/TaskServiceImpl.java

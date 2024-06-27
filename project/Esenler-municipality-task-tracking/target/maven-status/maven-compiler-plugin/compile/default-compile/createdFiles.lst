@@ -1,0 +1,10 @@
+com/esenler/tasktracking/controller/TaskController.class
+com/esenler/tasktracking/entity/Employee.class
+com/esenler/tasktracking/entity/ContractedEmployee.class
+com/esenler/tasktracking/EsenlerMunicipalityTaskTrackingApplication.class
+com/esenler/tasktracking/service/TaskService.class
+com/esenler/tasktracking/repository/TaskRepository.class
+com/esenler/tasktracking/entity/Task.class
+com/esenler/tasktracking/entity/ContractTask.class
+com/esenler/tasktracking/repository/EmployeeRepository.class
+com/esenler/tasktracking/service/impl/TaskServiceImpl.class

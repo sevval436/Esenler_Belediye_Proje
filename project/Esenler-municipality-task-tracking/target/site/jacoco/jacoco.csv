@@ -1,0 +1,8 @@
+GROUP,PACKAGE,CLASS,INSTRUCTION_MISSED,INSTRUCTION_COVERED,BRANCH_MISSED,BRANCH_COVERED,LINE_MISSED,LINE_COVERED,COMPLEXITY_MISSED,COMPLEXITY_COVERED,METHOD_MISSED,METHOD_COVERED
+Esenler-municipality-task-tracking,com.esenler.tasktracking,EsenlerMunicipalityTaskTrackingApplication,5,3,0,0,2,1,1,1,1,1
+Esenler-municipality-task-tracking,com.esenler.tasktracking.service.impl,TaskServiceImpl,0,47,2,4,0,10,2,4,0,3
+Esenler-municipality-task-tracking,com.esenler.tasktracking.controller,TaskController,0,14,0,0,0,4,0,3,0,3
+Esenler-municipality-task-tracking,com.esenler.tasktracking.entity,ContractedEmployee,10,0,0,0,4,0,3,0,3,0
+Esenler-municipality-task-tracking,com.esenler.tasktracking.entity,ContractTask,17,0,0,0,7,0,5,0,5,0
+Esenler-municipality-task-tracking,com.esenler.tasktracking.entity,Employee,17,14,0,0,7,7,5,4,5,4
+Esenler-municipality-task-tracking,com.esenler.tasktracking.entity,Task,8,23,0,0,4,10,2,7,2,7
